@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movie-search/static/css/main.c823f7d4.css",
-    "main.js": "/movie-search/static/js/main.7a7d5892.js",
-    "static/js/787.b2dfefea.chunk.js": "/movie-search/static/js/787.b2dfefea.chunk.js",
-    "static/media/logo.png": "/movie-search/static/media/logo.668b54a6528402047604.png",
-    "static/media/BG.png": "/movie-search/static/media/BG.0805d1c579b3eb137695.png",
-    "static/media/footer-logo.png": "/movie-search/static/media/footer-logo.5716294c09e479d4b13b.png",
-    "index.html": "/movie-search/index.html",
-    "main.c823f7d4.css.map": "/movie-search/static/css/main.c823f7d4.css.map",
-    "main.7a7d5892.js.map": "/movie-search/static/js/main.7a7d5892.js.map",
-    "787.b2dfefea.chunk.js.map": "/movie-search/static/js/787.b2dfefea.chunk.js.map"
+    "main.css": "/movie-search-react/static/css/main.064281b1.css",
+    "main.js": "/movie-search-react/static/js/main.b144523c.js",
+    "static/js/787.b2dfefea.chunk.js": "/movie-search-react/static/js/787.b2dfefea.chunk.js",
+    "static/media/logo.png": "/movie-search-react/static/media/logo.668b54a6528402047604.png",
+    "static/media/BG.png": "/movie-search-react/static/media/BG.0805d1c579b3eb137695.png",
+    "static/media/footer-logo.png": "/movie-search-react/static/media/footer-logo.5716294c09e479d4b13b.png",
+    "index.html": "/movie-search-react/index.html",
+    "main.064281b1.css.map": "/movie-search-react/static/css/main.064281b1.css.map",
+    "main.b144523c.js.map": "/movie-search-react/static/js/main.b144523c.js.map",
+    "787.b2dfefea.chunk.js.map": "/movie-search-react/static/js/787.b2dfefea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c823f7d4.css",
-    "static/js/main.7a7d5892.js"
+    "static/css/main.064281b1.css",
+    "static/js/main.b144523c.js"
   ]
 }
